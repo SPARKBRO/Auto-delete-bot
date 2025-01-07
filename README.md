@@ -22,7 +22,6 @@ Remember to deploy the latest version</details>
 
 <details>
 <summary>VPS</summary>
-Install latest version of <a href="python.org">Python</a>
 Create variables approximately 
 <pre>git clone https://github.com/SPARKBRO/Auto-delete-bot
 cd Auto-delete-bot
