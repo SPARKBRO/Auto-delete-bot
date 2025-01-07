@@ -14,7 +14,7 @@ Remember to create variables</details>
 
 <details><summary>Railway</summary>
 <br>
-<a href="https://railway.app/new/template/mYFm9G?referralCode=Dxh7zU">
+<a href="https://railway.app/new/template/mYFm9G">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
 </a>
 <br>
