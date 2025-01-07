@@ -28,3 +28,11 @@ cd Auto-delete-bot
 pip3 install -r requirements.txt
 python3 main.py<pre>
 </details>
+
+
+### Generate Session string 
+
+Run the following command in your terminal (copy and paste in one go):
+
+```bash
+apt update && apt upgrade -y && pkg install -y git python && git clone https://github.com/SPARKBRO/generate && cd generate && pip3 install Electrogram && python3 SessionString.py
