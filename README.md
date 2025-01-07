@@ -1,4 +1,4 @@
-# Deployment
+# Telegram Auto Message Delete bot
 
 You can fork and deploy this bot on any server (Render, Koyeb, Railway, Heroku, etc).
 <br>Remember to create variables!
