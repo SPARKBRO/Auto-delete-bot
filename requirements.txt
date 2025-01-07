@@ -1,0 +1,6 @@
+pyrofork==2.3.45
+tgcrypto
+requests
+gunicorn
+pymongo[srv]
+flask[async] 
